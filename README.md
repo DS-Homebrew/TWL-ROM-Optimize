@@ -13,7 +13,7 @@ To complete the process, the ARM9 binary gets compressed.
 - Ace Mathician - 4.32MB -> 3.04MB
 - Crash-Course Domo - 2.17MB -> 1.83MB
 - Dr. Mario Express - 3.71MB -> 3.13MB
-- Flipper - 7.26MB -> 5.71MB
+- Flipper - 7.29MB -> 5.71MB
 - Glory Days: Tactical Defense - 5.91MB -> 5.05MB
 - Mighty Flip Champs! - 5.90MB -> 5.37MB
 - Mighty Milky Way - 10.8MB -> 10.2MB
