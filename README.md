@@ -10,8 +10,10 @@ In the case of titles that do use Camera and/or Wireless, then the ARM7/7i binar
 To complete the process, the ARM9 binary gets compressed.
 
 # Examples
+- Ace Mathician - 4.32MB -> 3.04MB
 - Crash-Course Domo - 2.17MB -> 1.83MB
 - Dr. Mario Express - 3.71MB -> 3.13MB
+- Flipper - 7.26MB -> 5.71MB
 - Glory Days: Tactical Defense - 5.91MB -> 5.05MB
 - Mighty Flip Champs! - 5.90MB -> 5.37MB
 - Mighty Milky Way - 10.8MB -> 10.2MB
