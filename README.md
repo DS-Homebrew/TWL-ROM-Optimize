@@ -7,6 +7,8 @@ This is done by using donor ARM7/7i binaries of first-party DSiWare titles which
 
 In the case of titles that do use Camera and/or Wireless, then the ARM7/7i binaries are only changed to THUMB.
 
+To complete the process, the ARM9 binary gets compressed.
+
 # Examples
 - Crash-Course Domo - 2.17MB -> 1.83MB
 - Dr. Mario Express - 3.71MB -> 3.13MB
