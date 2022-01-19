@@ -3,7 +3,7 @@ Makes DSiWare ROMs slightly smaller
 
 # What this does
 This tool strips out unused code from ARM7/7i binaries of DSiWare titles that don't use Camera and/or Wireless, as well as changing the code to THUMB (if not already).     
-This is done by using dononr ARM7/7i binaries of first-party DSiWare titles which don't use Camera and/or Wireless.
+This is done by using donor ARM7/7i binaries of first-party DSiWare titles which don't use Camera and/or Wireless.
 
 In the case of titles that do use Camera and/or Wireless, then the ARM7/7i binaries are only changed to THUMB.
 
