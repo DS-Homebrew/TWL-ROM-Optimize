@@ -23,11 +23,11 @@ In the case of titles that do use Camera and/or Wireless, then the ARM7/7i binar
 2. In `a7donors`, create a folder called `dsiware`
 3. In `dsiware`:
      - Place a copy of either *Animal Crossing Clock* or *Mario Clock*, and rename to `sdk50.nds`
-     - Place a copy of either *Bird & Beans* or *Paper Airplane Chase*, and rename to `sdk51.nds`
+     - Place a copy of either *Bird & Beans* or *Paper Airplane Chase* (Both USA or EUR), and rename to `sdk51.nds`
 4. Again in `dsiware`, create a folder called `camerawifi`
 5. In `camerawifi`:
-     - Place a copy of *Nintendo DSi Browser* (Japan, Rev 0), and rename to `sdk50.nds`
-     - Place a copy of *Nintendo DSi Browser* (Rev 1 or later), and rename to `sdk51.nds`
+     - Place a copy of *Nintendo DSi Browser* (Japan & Rev 0 or 1, or USA/Europe/Australia & Rev 2), and rename to `sdk50.nds`
+     - Place a copy of *Nintendo DSi Browser* (Rev 3), and rename to `sdk51.nds`
      - Place a copy of either *Bejeweled Twist* (DSiWare version) or *Photo Dojo*, and rename to `sdk53.nds`
      - Place a copy of either *Crazy Hamster* or *DS WiFi Settings*, and rename to `sdk55.nds`
 6. Download [TinkeDSi](https://github.com/R-YaTian/TinkeDSi/releases)
